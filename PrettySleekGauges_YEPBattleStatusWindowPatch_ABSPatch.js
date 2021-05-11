@@ -1,14 +1,20 @@
 /*:
- * @plugindesc Compatibility patch for Yanfly Battle Status Window
- * @author mjshi
+ * @plugindesc Compatibility patch for Yanfly Battle Status Window AND Yanfly Absorption Barrier
+ * @author mjshi (PrettySleekGauges), Vyzuro
  *
  * @help 
  * ----------------------------------------------------------------------------
- *   Pretty Sleek Gauges Yanfly Battle Status Window Patch v1.0c
+ *   Pretty Sleek Gauges Yanfly Battle Status Window + ABS Patch
  *     For Pretty Sleek Gauges versions v1.03c and up
  * ----------------------------------------------------------------------------
- *   Installation: Place below Pretty Sleek Gauges and Yanfly Battle Status.
+ *   This plugin replaces the original Battle Status Window patch.
+ *   Do not use both this patch and the original.
+ *
+ *   Installation: Place below Pretty Sleek Gauges, Yanfly Battle Status, 
+ *   and PrettySleekGauges_YanflyAbsBarrier.
  *   May slightly impact performance, hence, this is a separate plugin.
+ *
+ *   
  * ----------------------------------------------------------------------------
  * > Is something broken? Go to http://mjshi.weebly.com/contact.html and I'll
  *   try my best to help you!
